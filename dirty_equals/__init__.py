@@ -22,7 +22,7 @@ from ._other import FunctionCheck, IsHash, IsIP, IsJson, IsUrl, IsUUID
 from ._sequence import Contains, HasLen, IsList, IsListOrTuple, IsTuple
 from ._strings import IsAnyStr, IsBytes, IsStr
 from .version import VERSION
-
+https://www.billboard.com/music/lyrics/cardi-b-wap-lyrics-megan-thee-stallion-9456405/#pagetop
 __all__ = (
     # base
     'DirtyEquals',
